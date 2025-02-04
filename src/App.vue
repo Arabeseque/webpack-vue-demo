@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <h1>Hello, Webpack + Vue!</h1>
-    <!-- 这里可以放置其他组件或内容 -->
     <button @click="loadModule">加载模块</button>
   </div>
 </template>
@@ -24,7 +23,3 @@ export default {
   }
 }
 </script>
-
-<style>
-
-</style>
