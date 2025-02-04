@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_vue_demo=self.webpackChunkwebpack_vue_demo||[]).push([[225],{225:(e,u,a)=>{function c(){alert("懒加载模块已加载！")}a.r(u),a.d(u,{default:()=>c})}}]);
